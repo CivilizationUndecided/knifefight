@@ -38,14 +38,12 @@
           {
             "Team": "Terrorist",
             "Equipment": [
-              "weapons/usp/usp.equip",
               "weapons/knife/knife.equip"
             ]
           },
           {
             "Team": "CounterTerrorist",
             "Equipment": [
-              "weapons/usp_sd/usp_sd.equip",
               "weapons/knife_bayonet/knife_bayonet.equip"
             ]
           }
@@ -372,12 +370,14 @@
                   {
                     "__type": "Facepunch.PlayRadio",
                     "__guid": "afed815e-6a51-4e66-b94c-3bda199ea631",
+                    "__guid": "afed815e-6a51-4e66-b94c-3bda199ea631",
                     "BothTeams": false,
                     "Sound": "RoundLost",
                     "Team": "Terrorist"
                   },
                   {
                     "__type": "Facepunch.PlayRadio",
+                    "__guid": "a611e014-1844-472b-b1b2-d35d21b56eef",
                     "__guid": "a611e014-1844-472b-b1b2-d35d21b56eef",
                     "BothTeams": false,
                     "Sound": "RoundLost",
@@ -412,12 +412,14 @@
                   {
                     "__type": "Facepunch.PlayRadio",
                     "__guid": "00d323b8-6637-4615-bf9c-4acefc31c448",
+                    "__guid": "00d323b8-6637-4615-bf9c-4acefc31c448",
                     "BothTeams": false,
                     "Sound": "RoundWon",
                     "Team": "Terrorist"
                   },
                   {
                     "__type": "Facepunch.PlayRadio",
+                    "__guid": "4d013707-b969-48aa-9b32-3ec46ecb8977",
                     "__guid": "4d013707-b969-48aa-9b32-3ec46ecb8977",
                     "BothTeams": false,
                     "Sound": "RoundLost",
@@ -432,6 +434,7 @@
                   {
                     "__type": "Facepunch.ShowStatusText",
                     "__guid": "45a9b96f-c3ca-4120-81cc-909eb2aa4111",
+                    "__guid": "45a9b96f-c3ca-4120-81cc-909eb2aa4111",
                     "BothTeams": false,
                     "StatusText": "Victory",
                     "Team": "Terrorist"
@@ -439,12 +442,14 @@
                   {
                     "__type": "Facepunch.ShowStatusText",
                     "__guid": "04dbb62e-024d-49a5-8406-a82525261799",
+                    "__guid": "04dbb62e-024d-49a5-8406-a82525261799",
                     "BothTeams": false,
                     "StatusText": "Defeat",
                     "Team": "CounterTerrorist"
                   },
                   {
                     "__type": "Facepunch.StatIncrementer",
+                    "__guid": "307b4c84-f018-4384-87e3-0c43ed3659e7",
                     "__guid": "307b4c84-f018-4384-87e3-0c43ed3659e7",
                     "Amount": 1,
                     "SendExtraGameModeStat": true,
@@ -474,12 +479,14 @@
                   {
                     "__type": "Facepunch.PlayRadio",
                     "__guid": "a3c71da9-fdac-4273-85cb-06f10444a501",
+                    "__guid": "a3c71da9-fdac-4273-85cb-06f10444a501",
                     "BothTeams": false,
                     "Sound": "RoundWon",
                     "Team": "CounterTerrorist"
                   },
                   {
                     "__type": "Facepunch.PlayRadio",
+                    "__guid": "1b9c9d4a-e513-4025-8ba4-8975bf498b6f",
                     "__guid": "1b9c9d4a-e513-4025-8ba4-8975bf498b6f",
                     "BothTeams": false,
                     "Sound": "RoundLost",
@@ -488,11 +495,13 @@
                   {
                     "__type": "Facepunch.ShowToast",
                     "__guid": "470a668e-f7be-471b-adb7-b92686430ad2",
+                    "__guid": "470a668e-f7be-471b-adb7-b92686430ad2",
                     "Message": "Operators Win!",
                     "Type": "CounterTerroristsWin"
                   },
                   {
                     "__type": "Facepunch.ShowStatusText",
+                    "__guid": "ef00cd8e-0e42-45d1-99d3-9db06a912677",
                     "__guid": "ef00cd8e-0e42-45d1-99d3-9db06a912677",
                     "BothTeams": false,
                     "StatusText": "Victory",
@@ -501,12 +510,14 @@
                   {
                     "__type": "Facepunch.ShowStatusText",
                     "__guid": "dd670bdb-d28d-4c3a-860d-51bdba991934",
+                    "__guid": "dd670bdb-d28d-4c3a-860d-51bdba991934",
                     "BothTeams": false,
                     "StatusText": "Defeat",
                     "Team": "Terrorist"
                   },
                   {
                     "__type": "Facepunch.StatIncrementer",
+                    "__guid": "9b9b18a7-d286-40d8-b3af-8e957af2b900",
                     "__guid": "9b9b18a7-d286-40d8-b3af-8e957af2b900",
                     "Amount": 1,
                     "SendExtraGameModeStat": true,

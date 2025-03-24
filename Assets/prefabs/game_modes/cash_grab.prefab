@@ -38,15 +38,13 @@
           {
             "Team": "Terrorist",
             "Equipment": [
-              "weapons/knife/knife.equip",
-              "weapons/usp/usp.equip"
+              "weapons/knife/knife.equip"
             ]
           },
           {
             "Team": "CounterTerrorist",
             "Equipment": [
-              "weapons/knife_bayonet/knife_bayonet.equip",
-              "weapons/usp_sd/usp_sd.equip"
+              "weapons/knife_bayonet/knife_bayonet.equip"
             ]
           }
         ]

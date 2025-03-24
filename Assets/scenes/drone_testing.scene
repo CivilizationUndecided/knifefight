@@ -63,9 +63,7 @@
           "RefillAmmo": true,
           "Team": "Terrorist",
           "Weapons": [
-            "weapons/knife/knife.equip",
-            "weapons/usp/usp.equip",
-            "weapons/m4a1/m4a1.equip"
+            "weapons/knife/knife.equip"
           ]
         },
         {
@@ -281,6 +279,7 @@
               0
             ],
             "EdgeFlags": [
+              0,
               0,
               0,
               0,

@@ -213,7 +213,7 @@
             "Animation": "WithPistol",
             "Weapon Prefab": {
               "_type": "gameobject",
-              "prefab": "weapons/usp_sd/w_usp_sd.prefab"
+              "prefab": "weapons/knife/w_knife.prefab"
             }
           }
         },
@@ -230,7 +230,7 @@
             "Animation": "WithRifle",
             "Weapon Prefab": {
               "_type": "gameobject",
-              "prefab": "weapons/m4a1/w_m4a1.prefab"
+              "prefab": "weapons/knife_bayonet/w_knife_bayonet.prefab"
             }
           }
         },
@@ -247,7 +247,7 @@
             "Animation": "WithRifle",
             "Weapon Prefab": {
               "_type": "gameobject",
-              "prefab": "weapons/m4a1/w_m4a1.prefab"
+              "prefab": "weapons/knife_bayonet/w_knife_bayonet.prefab"
             }
           }
         },
@@ -264,7 +264,7 @@
             "Animation": "WithPistol",
             "Weapon Prefab": {
               "_type": "gameobject",
-              "prefab": "weapons/usp_sd/w_usp_sd.prefab"
+              "prefab": "weapons/knife/w_knife.prefab"
             }
           }
         }

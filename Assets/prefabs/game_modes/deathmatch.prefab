@@ -13,7 +13,10 @@
         "Ident": "dm",
         "MaxBalance": 16000,
         "Title": "Deathmatch",
-        "UnlimitedMoney": true
+        "UnlimitedMoney": true,
+        "DefaultLoadout": [
+          "weapons/knife/knife.equip"
+        ]
       },
       {
         "__type": "Facepunch.DefaultEquipment",
