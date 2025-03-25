@@ -36,7 +36,6 @@
             <PlayerInfo />
             <Spectating />
             <Deathcam />
-            <DefuseKitDisplay />
             <DamageIndicator />
             <RoundStateDisplay />
             <KillFeed @ref="KillFeed" />
@@ -68,7 +67,6 @@
     @if ( isValidPlayer )
     {
         <!-- Full-screen overlays -->
-        <BuyMenu />
         <MarkerSystem />
 
         <PlayAreaOverlay />
@@ -76,6 +74,27 @@
     }
 
     <Scoreboard />
+    <Spectator />
+    <Crosshair />
+    <Hitmarker />
+    <Killfeed />
+    <GameStatus />
+    <Inventory />
+    <Health />
+    <Armor />
+    <Balance />
+    <Ammo />
+    <Markers />
+    <Notifications />
+    <Spectators />
+    <VoiceChat />
+    <Hints />
+    <Announcements />
+    <Rounds />
+    <Objectives />
+    <Voting />
+    <Podium />
+    <Splash />
 </root>
 
 @code 

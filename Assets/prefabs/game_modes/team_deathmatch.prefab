@@ -137,15 +137,9 @@
                 "__guid": "45305a9c-ebba-480b-b65c-a573a56843ae"
               },
               {
-                "__type": "Facepunch.EnableBuyMenu",
-                "__guid": "ea635d1f-635b-48d4-9e6b-92c52aa96a0b",
-                "InBuyZoneOnly": false,
-                "TimeLimit": 0
-              },
-              {
                 "__type": "Facepunch.PlayerAutoRespawner",
                 "__guid": "eb59db6f-2e1b-4290-8ea3-98f00b7ad4bc",
-                "AllowSpectatorsToSpawn": false,
+                "AllowSpectatorsToSpawn": true,
                 "RespawnDelaySeconds": 3
               },
               {
